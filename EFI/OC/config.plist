@@ -261,6 +261,11 @@
 	<dict>
 		<key>Add</key>
 		<dict>
+			<key>PciRoot(0x1)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>disable-gpu</key>
+				<true/>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
